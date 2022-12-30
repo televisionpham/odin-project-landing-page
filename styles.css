@@ -7,6 +7,10 @@ html {
     font-family: "roboto", sans-serif;           
 }
 
+li {
+    list-style: none;
+}
+
 .white-text {
     color: #f9faf8
 }
@@ -46,8 +50,9 @@ nav {
 }
 
 .nav-link {
-    font-size: 18px;
-    list-style: none;
+    font-size: 18px;    
+    text-decoration: none;
+    color: #E5E7EB;
 }
 
 #section-hero {
